@@ -1,0 +1,7 @@
+python-dotenv
+google-generativeai
+psycopg2-binary
+pypdf
+python-docx
+tqdm
+pysbd

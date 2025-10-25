@@ -1,24 +1,10 @@
-# --- Python ---
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
-*.so
-*.egg
-*.egg-info
-dist/
-build/
-
-# --- Environments ---
-.env
 venv/
+.env
 .env.*
 *.env
-
-# --- IDEs ---
 .idea/
 .vscode/
-
-# --- OS files ---
 .DS_Store
 Thumbs.db

@@ -6,7 +6,6 @@ This project implements a **lightweight RAG (Retrieval-Augmented Generation)** p
 
 ## Overview
 
-![Architecture Diagram](https://github.com/yourusername/document-rag/assets/architecture_example.png)
 
 A simple two-stage pipeline:
 

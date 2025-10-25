@@ -6,6 +6,8 @@ This project implements a **lightweight RAG (Retrieval-Augmented Generation)** p
 
 ## Overview
 
+![Architecture Diagram](https://github.com/yourusername/document-rag/assets/architecture_example.png)
+
 A simple two-stage pipeline:
 
 1. **Indexing:** Extract and embed text chunks into PostgreSQL (with `pgvector`).
@@ -28,7 +30,7 @@ A simple two-stage pipeline:
 
 ### 1. Clone & setup environment
 ```bash
-git clone https://github.com/yuvtz/RAG-project.git
+git clone https://github.com/yourusername/document-rag.git
 cd document-rag
 python -m venv venv
 source venv/bin/activate   # or on Windows: venv\Scripts\activate

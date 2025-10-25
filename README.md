@@ -30,7 +30,7 @@ A simple two-stage pipeline:
 
 ### 1. Clone & setup environment
 ```bash
-git clone https://github.com/yourusername/document-rag.git
+git clone https://github.com/yuvtz/RAG-project.git
 cd document-rag
 python -m venv venv
 source venv/bin/activate   # or on Windows: venv\Scripts\activate
